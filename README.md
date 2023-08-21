@@ -94,7 +94,7 @@ Assume you haven't installed symfony CLI yet
 
     The certificate is at "./example.com+5.pem" and the key at "./example.com+5-key.pem" ✅
 `````
-Advance ->
+Black MAGIC 🧙‍♂️ 🎉 🤿
 ````
     mkcert -key-file /path/to/key.pem -cert-file /path/to/cert.pem example.com *.example.com
 `````
